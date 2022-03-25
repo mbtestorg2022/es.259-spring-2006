@@ -73,7 +73,7 @@ Adeyemi, A study on the use of Information Systems to prevent HIV/AIDS in Lagos
 {{< tdopen >}}
 [Grading Rubric - Written Assignments by Course Staff for 21G.034 (PDF)](/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_rubricforwri)  
   
-Grameen Bank: Taking Capitalism to the poor (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/848/Grameen_Bank_v04.pdf))
+Grameen Bank: Taking Capitalism to the poor ([PDF](https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/848/Grameen_Bank_v04.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
