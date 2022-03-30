@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding a voice
   for health.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/es-259-information-and-communication-technology-in-africa-spring-2006/ef95776b5d5bd5ceeb51850890cf18f5_MITES_259S06_scott_1.pdf
 file_type: application/pdf
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: A Voice Portal For Health
 uid: ef95776b-5d5b-d5ce-eb51-850890cf18f5
